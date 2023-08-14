@@ -2,4 +2,4 @@
 This is a project of my course "Deep learning Fundamentals and Practice". Note, code and other materials will be uploaded
 
 ## Hugging face
-[Hugging face intro]<https://zhuanlan.zhihu.com/p/535100411>
+[Hugging face intro](https://zhuanlan.zhihu.com/p/535100411)
