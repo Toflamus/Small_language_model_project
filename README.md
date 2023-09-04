@@ -28,3 +28,6 @@ Right now this model and relative information of the pretain process can be foun
 See file: [Server_Fineture_process.ipynb](https://github.com/Toflamus/Small_language_model_project/blob/main/Server_Finetune_process.ipynb)
 ### Model 
 Right now this model and relative information of the pretain process can be found [here](https://huggingface.co/Toflamus/GPT-2_3M_finetuned2)
+
+## Report
+The final report can be found [here](https://github.com/Toflamus/Small_language_model_project/blob/main/neurips_2023.pdf)
